@@ -1,1 +1,1 @@
-# imdb-pt-br-an-lise-de-sentimentos
+# imdb-pt-br-sentiment-analysis
